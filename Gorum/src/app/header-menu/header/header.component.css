@@ -1,0 +1,10 @@
+.header {
+    background-color: #2c3e50; /* You can change this color to any color that doesn't disturb the eyes */
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .title {
+    font-size: 34px;
+    color: #ffffff; /* You can change the color of the title text */
+  }
